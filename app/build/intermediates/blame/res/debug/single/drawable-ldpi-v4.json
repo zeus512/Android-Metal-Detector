@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/sdf.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-ldpi/sdf.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/asdfg.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-ldpi/asdfg.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/asdf.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-ldpi/asdf.jpg"
+    }
+]

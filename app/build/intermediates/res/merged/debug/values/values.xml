@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetalDetector</string>
+    <string name="hello">Hello World, MetalDetectorActivity!</string>
+    <string name="high">high</string>
+    <string name="low">low</string>
+    <string name="magneticField">Magnetic field strength: </string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-hdpi/mm.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/asdfg.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-hdpi/asdfg.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sdf.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-hdpi/sdf.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/asdf.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-hdpi/asdf.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/aaa.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-hdpi/aaa.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/images.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-hdpi/images.jpg"
+    }
+]

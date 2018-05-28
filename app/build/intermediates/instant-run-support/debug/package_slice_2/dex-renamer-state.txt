@@ -1,0 +1,4 @@
+#Tue Jul 04 02:30:38 IST 2017
+base.0=/root/StudioProjects/MetalDetector1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/root/StudioProjects/MetalDetector1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

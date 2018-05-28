@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/asdf.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-mdpi/asdf.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/MetalDetector1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/asdfg.jpg",
+        "source": "/root/StudioProjects/MetalDetector1/app/src/main/res/drawable-mdpi/asdfg.jpg"
+    }
+]
